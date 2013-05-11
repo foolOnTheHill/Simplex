@@ -20,10 +20,11 @@ What is coming?
 Author
 =======
 
-George H. A. de Oliveira.
-  Twitter: @darthvelho;
-  GitHub: github.com/foolOnTheHilll
+- George H. A. de Oliveira.
+  * Twitter: http://twitter.com/@darthvelho
+  * GitHub: http://github.com/foolOnTheHilll
 
 License and usage
 =================
 
+It is provided under the terms of the [MIT License](simplex.py).
