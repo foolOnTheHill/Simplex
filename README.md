@@ -27,4 +27,4 @@ Author
 License and usage
 =================
 
-It is provided under the terms of the [MIT License](simplex.py).
+It is provided under the terms of the [MIT License](MIT_License.txt).
