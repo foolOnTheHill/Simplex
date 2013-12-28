@@ -1,16 +1,15 @@
 Simplex
 =======
 
-Linear Algebra library for students.
+*Linear Algebra library for students.*
 
-This is a simple Python module who implements some of the basics algorithms from Linear Algebra, each providing a 
-step-by-step description during its execution. This way, I intend to help students to have a better understanding
-and get more familiarization with this field and its procedures at graduation level.
+This is a simple Python module that implements some of the basic algorithms of Linear Algebra, each one providing a 
+*step-by-step description* during its execution. 
 
 Next steps
-==========
+----------
 
-What is coming?
+What's next?
 
 * More algorithms?
 * User interface?
@@ -18,13 +17,11 @@ What is coming?
 * Translation?
 
 Author
-=======
+------
 
-- George H. A. de Oliveira.
-  * Twitter: http://twitter.com/@darthvelho
-  * GitHub: http://github.com/foolOnTheHilll
+* George H. A. de Oliveira (ghao@cin.ufpe.br)
 
 License and usage
-=================
+-----------------
 
 It is provided under the terms of the [MIT License](MIT_License.txt).
